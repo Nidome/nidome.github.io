@@ -7,10 +7,9 @@ I am interested in game develop and game design.
 ![Image](/Images/ProfliePicture.JPG)
 
 
-### Markdown
+## My hobby
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+My hobby is collecting keychain and play game.
 ```markdown
 Syntax highlighted code block
 
