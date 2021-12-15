@@ -15,7 +15,7 @@ My hobby is collecting keychain and play game.
 ### VIsual Novel Game
 
 <p float="left">
-  <img src="/Images/VN.jpeg" width="100" />
+  <img src="/Images/VN.jpeg" width="450" />
   <img src="/Images/VN2.jpeg" width="450" />
 </p>
 - Horror
