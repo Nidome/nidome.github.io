@@ -1,8 +1,8 @@
 ## My Proflie Data
 
-My Full name is chayangkul Songmuang.
+My name is chayangkul Songmuang.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in game develop and game design.
 
 ![Image](/Images/ProfliePicture.JPG)
 
