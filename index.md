@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [My Facebook Profile](https://www.facebook.com/chayangkul.songmuang/).
+Contact me on [My Facebook Profile](https://www.facebook.com/chayangkul.songmuang/).
 
 ### Jekyll Themes
 
