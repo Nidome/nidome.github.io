@@ -18,6 +18,7 @@ My hobby is collecting keychain and play game.
   <img src="/Images/VN.jpeg" width="300" />
   <img src="/Images/VN2.jpeg" width="300" />
 </p>
+
 - Horror
 - Mystery
 
