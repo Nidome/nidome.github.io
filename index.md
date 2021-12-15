@@ -16,8 +16,8 @@ My hobby is collecting keychain and play game.
 
 <img src="/Images/VN.jpeg" width="450" height="275"> <img src="/Images/VN2.jpeg" width="450" height="275">
 
-- Bulleted
-- List
+- Horror
+- Mystery
 
 1. Numbered
 2. List
