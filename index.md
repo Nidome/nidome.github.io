@@ -12,9 +12,9 @@ I am interested in game develop and game design.
 My hobby is collecting keychain and play game.
 
 ## Activity
-## VIsual NOvel Game
+### VIsual Novel Game
+
 ![Image](/Images/VN.JPG)
-![Image](/Images/VN2.JPG) 
 
 
 - Bulleted
