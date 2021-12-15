@@ -1,8 +1,8 @@
 <style type="text/css">
 body 
 {
-background-image:
-url("/Images/kirigiri.png")
+  background-image:
+  img src ("/Images/kirigiri.png")
 }
 </style>
 
