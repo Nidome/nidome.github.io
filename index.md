@@ -1,11 +1,3 @@
-<style type="text/css">
-body 
-{
-  background-image:
-  img src ("/Images/kirigiri.png")
-}
-</style>
-
 # My Proflie Data
 
 My name is chayangkul Songmuang.
