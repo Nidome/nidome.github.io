@@ -14,7 +14,7 @@ My hobby is collecting keychain and play game.
 ## Activity
 ### VIsual Novel Game
 
-![Image](/Images/VN.JPG)
+![Image](/Images/VN.jpeg)
 
 
 - Bulleted
