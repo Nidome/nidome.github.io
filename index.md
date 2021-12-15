@@ -4,7 +4,7 @@ My name is chayangkul Songmuang.
 
 I am interested in game develop and game design.
 
-![Image](/Images/ProfliePicture.JPG)
+![Image]<img src="/Images/ProfliePicture.JPG" width="100" height="100">
 
 
 ## My hobby
