@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages
+## My Proflie Data
 
 You can use the [editor on GitHub](https://github.com/Nidome/nidome.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
