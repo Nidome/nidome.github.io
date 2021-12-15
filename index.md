@@ -4,7 +4,7 @@ My name is chayangkul Songmuang.
 
 I am interested in game develop and game design.
 
-<img src="/Images/ProfliePicture.JPG" width="425" height="425">
+<img src="/Images/ProfliePicture.JPG" width="400" height="400">
 
 
 ## My hobby
@@ -14,8 +14,7 @@ My hobby is collecting keychain and play game.
 ## Activity
 ### VIsual Novel Game
 
-![Image](/Images/VN.jpeg)
-
+<img src="/Images/VN.jpeg" width="200" height="200">
 
 - Bulleted
 - List
