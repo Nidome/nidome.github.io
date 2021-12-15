@@ -11,11 +11,9 @@ I am interested in game develop and game design.
 
 My hobby is collecting keychain and play game.
 ```markdown
-Syntax highlighted code block
+#Activity
+![Image](/Images/VN.JPG) ![Image](/Images/VN2.JPG) 
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
