@@ -19,4 +19,4 @@ My hobby is collecting keychain and play game.
 - Horror
 - Mystery
 
-Contact me on [My Facebook Profile](https://www.facebook.com/chayangkul.songmuang/).
+Contact me on My [Facebook](https://www.facebook.com/chayangkul.songmuang/) Profile.
