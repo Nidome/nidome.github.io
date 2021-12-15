@@ -2,7 +2,7 @@
 body 
 {
 background-image:
-url("images/blu.gif")
+url("/Images/kirigiri.png")
 }
 </style>
 
