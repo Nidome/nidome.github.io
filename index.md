@@ -1,3 +1,11 @@
+<style type="text/css">
+body 
+{
+background-image:
+url("images/blu.gif")
+}
+</style>
+
 # My Proflie Data
 
 My name is chayangkul Songmuang.
