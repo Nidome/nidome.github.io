@@ -26,7 +26,6 @@ My hobby is collecting keychain and play game.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 Contact me on [My Facebook Profile](https://www.facebook.com/chayangkul.songmuang/).
 
